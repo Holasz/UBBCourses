@@ -1,0 +1,6 @@
+C:\Users\katalinholasz\Desktop\MVC Projects - Moni Holasz\MVCProject\UBBCourse4\bin\Debug\UBBCourse4.exe.config
+C:\Users\katalinholasz\Desktop\MVC Projects - Moni Holasz\MVCProject\UBBCourse4\bin\Debug\UBBCourse4.exe
+C:\Users\katalinholasz\Desktop\MVC Projects - Moni Holasz\MVCProject\UBBCourse4\bin\Debug\UBBCourse4.pdb
+C:\Users\katalinholasz\Desktop\MVC Projects - Moni Holasz\MVCProject\UBBCourse4\obj\Debug\UBBCourse4.csprojResolveAssemblyReference.cache
+C:\Users\katalinholasz\Desktop\MVC Projects - Moni Holasz\MVCProject\UBBCourse4\obj\Debug\UBBCourse4.exe
+C:\Users\katalinholasz\Desktop\MVC Projects - Moni Holasz\MVCProject\UBBCourse4\obj\Debug\UBBCourse4.pdb
